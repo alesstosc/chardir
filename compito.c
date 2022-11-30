@@ -31,9 +31,5 @@ totgiorni=tot%30;
 printf("Mesi %d Giorni %d di distanza\n", totmesi, totgiorni);
 
 
-
-
-
-
 return 0;
 }
